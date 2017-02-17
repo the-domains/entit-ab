@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: Our Services
-dateModified: '2017-02-17T13:11:51.788Z'
-datePublished: '2017-02-17T13:11:52.283Z'
+dateModified: '2017-02-17T13:12:01.832Z'
+datePublished: '2017-02-17T13:12:02.236Z'
 title: Collaboration
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-02-17-collaboration.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-17T13:11:52.283Z'
-sourcePath: _posts/2017-02-17-collaboration.md
-_type: Blurb
+url: collaboration/index.html
+_type: Article
 
 ---
 Our Services
