@@ -1,0 +1,61 @@
+typography_spectrum: 0.4920334673952311
+color:
+  brandStrength: 0.3944530254229903
+  lightness: 0.8797703869640827
+  saturation: 0.1947000294458121
+  rhythmicContrast: 0.4466623333282769
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+layout_spectrum: 0.24794812873005867
+analytics:
+  google: UA-74709904-1
+author:
+  name: Nils Blomgren
+  email: info@entit.se
+  url: www.entit.se
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5601a6d3-65d6-417c-8dd9-028bc7aa998d.png
+name: Entit AB
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61b73c4f-c8cb-4eec-9a7f-aabd64a7ac3b.png
+title: Work better together
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3de27ba-1631-45a3-8795-b0ce3648b0c8.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3de27ba-1631-45a3-8795-b0ce3648b0c8.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Utilize the powerful cloud platforms to maximize your productivity
+purpose:
+  - type: contact
+    url: 'tel:+46706987348'
+    label: Call Us
+  - type: contact
+    url: 'mailto:info@entit.se'
+    label: Contact Us
+content_rating:
+  adult: false
+github: true
